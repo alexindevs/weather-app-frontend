@@ -4,7 +4,7 @@
       <h2 class="description">{{ info.description }}</h2>
       <br>
       <p class="temperature">It feels like it's {{ info.temperature }} degrees Celsius where you are.</p>
-      <p class="location">You are in {{ info.place }}, {{ info.region }}, {{ info.country }}</p>
+      <p class="location">You are in {{ info.place }}, {{ info.region }}, {{ info.country }}.</p>
     </div>
   </template>
   
